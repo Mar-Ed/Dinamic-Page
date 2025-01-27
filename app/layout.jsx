@@ -1,5 +1,6 @@
 import Navbar from '@/components/Navbar';
 import {Roboto} from 'next/font/google'
+import "./globals.css"
 export const metadata = {
   title: "HomePage",
   description: "Esta es la página principal.",
